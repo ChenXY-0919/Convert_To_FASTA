@@ -20,4 +20,4 @@ ORIGIN
      1081 tgtggatcgg cggctccatc ctggcctcgc tgtccacctt ccagcagatg tggatcagca
      1141 agcaggagta tgacaagtcc ggcccctcca tcgtccaccg caaatgcttc tacccaactt
      1201 tcttgtacaa agttggcatt ataagaaagc attgcttatc aatttgttgc aacgaac
-//
+/////
