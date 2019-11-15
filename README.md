@@ -7,6 +7,6 @@
   3.The output filename is result.FASTA
 
   Eg:   
-  '''python  
+  \\\python  
     python covert_FASTA.py   
-    please input your file path:test.txt'''
+    please input your file path:test.txt\\\
