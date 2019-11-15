@@ -9,4 +9,3 @@ Before Running:
 Eg: 
     python covert_FASTA.py 
     please input your file path:test.txt
-
